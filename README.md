@@ -1,2 +1,2 @@
-# Data-Analysis-Portfolio
-I created this repository to showcase my Data Analysis skills 
+# Alberto Martinez Garcia - Data Analysis Portfolio
+Hello, my name is Alberto! I created this portfolio to showcase what I have been learning throughout many courses and projects in Data Analytics and Machine Learning, and to track my progress. In the past, I worked in Sales as a Key Account Manager; but currently, I want to transition into Data Analytics, as I discovered that it is one of my passions.
